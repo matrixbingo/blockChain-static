@@ -1,0 +1,62 @@
+{
+  "code":200,
+  "msg":{
+    "list": [
+      {
+        "id": 2228,
+        "type": 3,
+        "code": "300480",
+        "time": 20170203,
+        "name": "光力科技",
+        "price": 27.61,
+        "range": 5.38,
+        "speed": 0,
+        "stock": 0.6376,
+        "buy": 3,
+        "sel": 0
+      },
+      {
+        "id": 2228,
+        "type": 3,
+        "code": "300480",
+        "time": 20170203,
+        "name": "光力科技",
+        "price": 27.61,
+        "range": 5.38,
+        "speed": 0,
+        "stock": 0.6376,
+        "buy": 3,
+        "sel": 0
+      },
+      {
+        "id": 2228,
+        "type": 3,
+        "code": "300480",
+        "time": 20170203,
+        "name": "光力科技",
+        "price": 27.61,
+        "range": 5.38,
+        "speed": 0,
+        "stock": 0.6376,
+        "buy": 3,
+        "sel": 0
+      },
+      {
+        "id": 2228,
+        "type": 3,
+        "code": "300480",
+        "time": 20170203,
+        "name": "光力科技",
+        "price": 27.61,
+        "range": 5.38,
+        "speed": 0,
+        "stock": 0.6376,
+        "buy": 3,
+        "sel": 0
+      }
+    ],
+    "totalCount": 20,
+    "page": 1,
+    "pageSize": 10
+  }
+}
